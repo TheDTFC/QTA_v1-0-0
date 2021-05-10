@@ -13,8 +13,8 @@ Without making changes to the code, you should see 17 failed tests, 5 passed tes
 Next Steps:
 1. Look at the SimpleCalculator Class and Tests to see how TDD/BDD should be implemented.
 2. test_bar_is_green() is also an example I created for your reference.
-3. c. You can then try steps 2 and 3 (above) for the remainder of the ClassifyBar Unit Tests.  We will review this together at the next team meeting.
+3. You can then try steps 2 and 3 (above) for the remainder of the ClassifyBar Unit Tests.  We will review this together at the next team meeting.
 
-You may not understand the terminology fully, and that is OK. We first want to understand how simple/challenging it is to follow steps 1-3 above.  
+You may not understand the Trading terminology fully, and that is OK. If you have questions please ask. We first want to understand how simple/challenging it is to follow steps 1-3 above.  
 I believe it will be good experience for each of you to attempt to define this, as this is essentially System Architecture Design.
 
