@@ -15,6 +15,6 @@ a. Look at the SimpleCalculator Class and Tests to see how TDD/BDD should be imp
   i. test_bar_is_green() is also an example I created for your reference.
 b. You can then try steps 2 and 3 (above) for the remainder of the ClassifyBar Unit Tests.  We will review this together at the next team meeting.
 
-You may not understand the terminology fully, and that is OK.  We first want to understand how simple/challenging it is to follow steps 1-3 above.  
+You may not understand the terminology fully, and that is OK. We first want to understand how simple/challenging it is to follow steps 1-3 above.  
 I believe it will be good experience for each of you to attempt to define this, as this is essentially System Architecture Design.
 
